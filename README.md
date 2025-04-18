@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ecommerce backend<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with<br>🌱 I’m currently learning Nestjs<br>💬 Ask me about Full stack development<br>⚡ Fun fact 
+🔭 I’m currently working on ecommerce backend<br>🤝 I’m looking for help with Microservices<br>🌱 I’m currently learning Go Lang<br>💬 Ask me about Full stack development<br>
 
 
 ## 🌐 Socials:
